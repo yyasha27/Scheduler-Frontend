@@ -1,2 +1,2 @@
-# Scheduler-Frontend
-Frontend Code for the application "Scheduler for Medical Representative" - Reactjs
+# Mavens-Doctor-Rep
+Front end modules for Doctor Representative Management Website
