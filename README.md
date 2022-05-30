@@ -1,3 +1,3 @@
-# Doctor Representative Scheduler
-Front end modules for Doctor Representative Scheduler Application.
+# Scheduler for Medical Representative 
+Front end modules for "Scheduler for Medical Representative" Application.
 The application is implemented using Reactjs.
